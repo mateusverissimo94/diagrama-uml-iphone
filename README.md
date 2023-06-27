@@ -1,3 +1,3 @@
 # diagrama-uml-iphone
 
-<img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
+<img src="https://github.com/mateusverissimo94/diagrama-uml-iphone/blob/main/diagrama-uml-iphone-2007.png" width="200" />
